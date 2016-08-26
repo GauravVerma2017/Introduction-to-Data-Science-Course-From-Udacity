@@ -5,6 +5,26 @@ I have learnt below concepts from this course :
   2. Introduction to various packages used in Data Science like Numpy, Pandas, Matplotlib, ggplot etc
   3. Analysed and writted Heuristic for Titanic Survivor Data
   4. Data Wrangling conecpts
-  5. Reading from and writing to CSV files.
-  6. Basic Analysis performed on Aadhar Data.
-  7. 
+    a. Reading from and writing to CSV files.
+    b. Basic Analysis performed on Aadhar Data.
+    c. Writing Simple SQL queries
+    d. Accessing Data from JSON Format
+    e. Using API's
+    f. Pandas Describe Function
+    g. Dealing with Missing Data
+    h. Imputation concepts
+  5. Data Analysis
+    a. Stastical Rigor
+    b. Statistical Test
+    c. Normal Distribution
+    d. t-Test
+    e. Whelch's 2 Sample t-Test
+    f. Non Parametric Test
+  6. Machine Learning concepts
+  7. Linear Regression with Gradient Descent
+  8. Data Visualization
+    a. Visual Encodings
+    b. Perception of Visual Cues
+    c. Ploting in Python using Matplotlib and ggplot library
+    d. Plotting different Data Tyeps and using Various scales
+    
